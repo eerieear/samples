@@ -1,4 +1,13 @@
 {
+ 
+ "kStringS": [
+   "kStringS/kStringS-001.wav",
+   "kStringS/kStringS-002.wav",
+   "kStringS/kStringS-003.wav",
+   "kStringS/kStringS-004.wav",
+   "kStringS/kStringS-005.wav"
+ ],
+ 
  "ee_mk_b1_s": [
    "/ee_mk_b1_s/001.wav",
    "/ee_mk_b1_s/002.wav",
@@ -17,13 +26,6 @@
    "/ee_mk_b1_s/015.wav",
    "/ee_mk_b1_s/016.wav"
   ],
- "kStringS": [
-   "kStringS/kStringS-001.wav",
-   "kStringS/kStringS-002.wav",
-   "kStringS/kStringS-003.wav",
-   "kStringS/kStringS-004.wav",
-   "kStringS/kStringS-005.wav"
- ],
 "b1": [
  "b1/b1-001.wav",
 "b1/b1-002.wav",
