@@ -1,4 +1,6 @@
-{"samples": {
+{
+ "samples": 
+ {
  "tg_tr": [
   "/tg_tr/tg_tr00.wav",
   "/tg_tr/tg_tr01.wav",
@@ -84,5 +86,5 @@
  "/b1/b1-047.wav",
  "/b1/b1-048.wav"
  ]
-}
+ }
 }
