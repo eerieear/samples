@@ -1,4 +1,12 @@
 {
+
+ "tg_tr": [
+  "tg_tr/tg_tr00.wav",
+  "tg_tr/tg_tr01.wav",
+  "tg_tr/tg_tr02.wav",
+  "tg_tr/tg_tr03.wav",
+  "tg_tr/tg_tr04.wav"
+ ]
  
  "kStringS": [
    "/kStringS/kStringS-001.wav",
