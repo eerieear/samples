@@ -1,22 +1,22 @@
  {
 
   "tg_vx_bus" : [
-  "/tg_vx_bus/001.wav",
-  "/tg_vx_bus/002.wav",
-  "/tg_vx_bus/003.wav",
-  "/tg_vx_bus/004.wav",
-  "/tg_vx_bus/005.wav",
-  "/tg_vx_bus/006.wav",
-  "/tg_vx_bus/007.wav",
-  "/tg_vx_bus/008.wav",
-  "/tg_vx_bus/009.wav",
-  "/tg_vx_bus/010.wav",
-  "/tg_vx_bus/011.wav",
-  "/tg_vx_bus/012.wav",
-  "/tg_vx_bus/013.wav",
-  "/tg_vx_bus/014.wav",
-  "/tg_vx_bus/015.wav",
-  "/tg_vx_bus/016.wav"
+  "/tg_vx_bus/bus_001.wav",
+  "/tg_vx_bus/bus_002.wav",
+  "/tg_vx_bus/bus_003.wav",
+  "/tg_vx_bus/bus_004.wav",
+  "/tg_vx_bus/bus_005.wav",
+  "/tg_vx_bus/bus_006.wav",
+  "/tg_vx_bus/bus_007.wav",
+  "/tg_vx_bus/bus_008.wav",
+  "/tg_vx_bus/bus_009.wav",
+  "/tg_vx_bus/bus_010.wav",
+  "/tg_vx_bus/bus_011.wav",
+  "/tg_vx_bus/bus_012.wav",
+  "/tg_vx_bus/bus_013.wav",
+  "/tg_vx_bus/bus_014.wav",
+  "/tg_vx_bus/bus_015.wav",
+  "/tg_vx_bus/bus_016.wav"
    ],
   
  "tg_tr": [
