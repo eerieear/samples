@@ -1,5 +1,24 @@
  {
-    
+
+  "tg_vx_bus" : [
+  "/tg_vx_bus/001.wav",
+  "/tg_vx_bus/002.wav",
+  "/tg_vx_bus/003.wav",
+  "/tg_vx_bus/004.wav",
+  "/tg_vx_bus/005.wav",
+  "/tg_vx_bus/006.wav",
+  "/tg_vx_bus/007.wav",
+  "/tg_vx_bus/008.wav",
+  "/tg_vx_bus/009.wav",
+  "/tg_vx_bus/010.wav",
+  "/tg_vx_bus/011.wav",
+  "/tg_vx_bus/012.wav",
+  "/tg_vx_bus/013.wav",
+  "/tg_vx_bus/014.wav",
+  "/tg_vx_bus/015.wav",
+  "/tg_vx_bus/016.wav"
+   ],
+  
  "tg_tr": [
   "/tg_tr/tg_tr00.wav",
   "/tg_tr/tg_tr01.wav",
@@ -83,24 +102,6 @@
  "/b1/b1-046.wav",
  "/b1/b1-047.wav",
  "/b1/b1-048.wav"
- ],
+ ]
   
-  "tg_vx_bus": [
-  "/tg_vx_bus/001.wav",
-  "/tg_vx_bus/002.wav",
-  "/tg_vx_bus/003.wav",
-  "/tg_vx_bus/004.wav",
-  "/tg_vx_bus/005.wav",
-  "/tg_vx_bus/006.wav",
-  "/tg_vx_bus/007.wav",
-  "/tg_vx_bus/008.wav",
-  "/tg_vx_bus/009.wav",
-  "/tg_vx_bus/010.wav",
-  "/tg_vx_bus/011.wav",
-  "/tg_vx_bus/012.wav",
-  "/tg_vx_bus/013.wav",
-  "/tg_vx_bus/014.wav",
-  "/tg_vx_bus/015.wav",
-  "/tg_vx_bus/016.wav"
-   ]
  }
